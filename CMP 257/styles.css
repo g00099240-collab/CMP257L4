@@ -1,0 +1,49 @@
+h1 {
+    background-color: rgb(227, 123, 123);
+    font-family: papyrus;
+    text-align: center;
+}
+h2 {
+    font-family: sans-serif;
+}
+body {
+    background-color: floralwhite;
+    font-family: georgia;
+}
+footer {
+    background-color: rgb(227, 123, 123);
+}
+
+form {
+    background-color: rgb(240, 194, 194);
+    border: 3px solid black;
+    /*padding: 5px 10px 5px 10px;
+    margin: 20px;*/ 
+}
+span:hover {
+    background-color:rgb(240, 194, 194);
+}
+.btn {
+    display: block;
+    width: 35%;
+    background-color: #afd3e4fc;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#workshop:hover{
+    background-color:rgb(227, 123, 123);
+}
+#social:hover{
+    background-color:rgb(227, 123, 123);
+}
+#sports:hover{
+    background-color:rgb(227, 123, 123);
+}
+#academic:hover{
+    background-color:rgb(227, 123, 123);
+}
+#other:hover{
+    background-color:rgb(227, 123, 123);
+}
+
+
+
